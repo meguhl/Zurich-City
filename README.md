@@ -12,3 +12,7 @@ https://opendata.swiss/de/dataset/ausruckzeit-feuerwehr-nach-stadtkreis
 
 Wachen Sanität
 https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet/so_arbeiten_wir/rettungsdienstwachen.html
+
+
+### Visualisations
+https://www.datawrapper.de/_/x6qgp/
