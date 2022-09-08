@@ -22,5 +22,9 @@ https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet/so_ar
 Karte Ambulanz inkl. Wachen
 https://www.datawrapper.de/_/x6qgp/
 
+Karte Feuerwehr inkl. Wachen
+https://www.datawrapper.de/_/8TDzP/
+
+
 Vergleich Ambulanz und Rettungsdienst
 https://www.datawrapper.de/_/dDG7R/
