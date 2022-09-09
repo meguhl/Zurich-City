@@ -17,7 +17,7 @@ Wachen Sanität
 https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet/so_arbeiten_wir/rettungsdienstwachen.html
 
 
-## Visualisationen
+## Visualisierung
 
 Karte Ambulanz inkl. Wachen
 https://www.datawrapper.de/_/x6qgp/
