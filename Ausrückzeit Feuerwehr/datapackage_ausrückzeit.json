@@ -1,0 +1,59 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "ausrueckzeit_fw",
+      "path": "ausrueckzeit_fw.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Jahr",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Stadtkreis",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Anzahl_Einsaetze_bis_10min",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Anzahl_Einsaetze_groesser_10min",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Prozent_Einsaetze_bis_10min",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Prozent_Einsaetze_groesser_10min",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Ausrueckzeit_Mittelwert",
+            "type": "any",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "ausrueckzeit-zurich",
+  "title": "Ausrueckzeit Zurich",
+  "description": "Ausrueckzeit Stadt Zurich in den Jahren 2020 und 2021 pro Kreis",
+  "homepage": "https://opendata.swiss/de/dataset/ausruckzeit-feuerwehr-nach-stadtkreis",
+  "licenses": [
+    {
+      "path": "https://opendata.swiss/de/terms-of-use#terms_open",
+      "title": "freie Nutzung"
+    }
+  ]
+}
